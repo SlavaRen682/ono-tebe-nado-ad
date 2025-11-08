@@ -103,11 +103,21 @@ main {
   text-transform: uppercase;
 }
 
-.text-align_center { text-align: center; }
-.text-align_right { text-align: right; }
+.text-align_center { 
+  text-align: center; 
+}
 
-.wide-letter { letter-spacing: 60px; }
-.no-spacing { letter-spacing: normal; }
+.text-align_right { 
+  text-align: right; 
+}
+
+.wide-letter { 
+  letter-spacing: 60px;
+}
+
+.no-spacing { 
+  letter-spacing: normal;
+}
 
 .main-cover__desc {
   position: relative;
